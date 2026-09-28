@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Design tokens — RILKE Fluid Systems (same navy family as Technoforme, stronger gold) */
+:root {
+  --night: #07131f;
+  --panel: #0e2233;
+  --paper: #f7f8fa;
+  --muted: #b8c3cd;
+  --gold: #d79a43;
+  --gold-light: #efb35d;
+  --line: rgba(255, 255, 255, 0.13);
+  /* Fixed header (88px) + sticky layer nav (~58px) */
+  --header-h: 88px;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: var(--night);
+}
+
+body {
+  background: var(--night);
+  color: var(--paper);
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+}
+
+section[id] {
+  scroll-margin-top: calc(var(--header-h) + 58px);
+}
+
+::selection {
+  background: rgba(215, 154, 67, 0.32);
+  color: #ffffff;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #07131f;
+}
+::-webkit-scrollbar-thumb {
+  background: #d79a43;
+  border-radius: 3px;
+}
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #d79a43 #07131f;
+}
+
+:focus-visible {
+  outline: 2px solid #d79a43;
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@media (max-width: 1023px) {
+  :root {
+    --header-h: 76px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

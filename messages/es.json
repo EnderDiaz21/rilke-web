@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "title": "RILKE Fluid Systems — Válvulas de arrodillamiento y nivelación · Hecho en Canadá",
+    "description": "RILKE diseña y fabrica componentes neumáticos y de control de fluidos para autobuses urbanos, autocares y camiones pesados: válvulas de arrodillamiento y nivelación, compresores de aire, secadores de aire y más. Diseñado por Technoforme. ISO 9001 · FMVSS · Hecho en Canadá."
+  },
+  "nav": {
+    "home": "RILKE Fluid Systems — inicio",
+    "products": "Productos",
+    "bus": "Sistemas para autobuses",
+    "engineering": "Ingeniería",
+    "rescue": "Rescate de piezas",
+    "technology": "Tecnología",
+    "rfq": "Cotización",
+    "quote": "Solicitar cotización",
+    "language": "Idioma",
+    "menuOpen": "Abrir menú",
+    "menuClose": "Cerrar menú",
+    "sections": "Secciones de la página"
+  },
+  "hero": {
+    "eyebrow": "Control de fluidos para autobuses urbanos, autocares y camiones pesados",
+    "titleLine1": "Sistemas de fluidos.",
+    "titleLine2": "Ingeniería en múltiples niveles.",
+    "text": "Desde una sola válvula hasta una arquitectura neumática completa, RILKE diseña, prueba y fabrica los componentes que mantienen en servicio a las flotas de transporte — empezando por las válvulas de arrodillamiento y nivelación.",
+    "cta1": "Explorar familias de productos",
+    "cta2": "¿Tiene una pieza que no consigue?",
+    "badge": "Diseñado y fabricado en Canadá por Technoforme",
+    "wallLabel": "Familias de productos RILKE",
+    "minis": ["Válvulas de arrodillamiento y nivelación", "Compresores de aire", "Secadores de aire", "Válvulas de drenaje automático"]
+  },
+  "credentials": {
+    "label": "Certificaciones y origen",
+    "items": [
+      { "title": "ISO 9001", "sub": "Gestión de calidad certificada" },
+      { "title": "FMVSS", "sub": "Normas federales de seguridad vehicular" },
+      { "title": "Hecho en Canadá", "sub": "Fabriqué au Canada · Terrebonne, QC" },
+      { "title": "Desde 2006", "sub": "Diseño → Prototipo → Pruebas → Producción" }
+    ]
+  },
+  "products": {
+    "eyebrow": "Nivel 01 · Familias de productos",
+    "title": "Un portafolio completo de control de fluidos.",
+    "desc": "Cada familia se diseña y fabrica bajo un mismo techo, con el marcado RILKE uniforme y acceso directo a los ingenieros que la desarrollaron.",
+    "featuredBadge": "Destacado",
+    "featured": {
+      "title": "Válvulas de arrodillamiento y nivelación",
+      "desc": "Dos válvulas complementarias para la misma suspensión neumática — mismo comprador, mismo técnico, mismo intervalo de servicio.",
+      "items": [
+        { "name": "Válvula de arrodillamiento", "desc": "Baja el piso para el abordaje. Diseñada para transporte accesible conforme a la ADA y ciclos urbanos." },
+        { "name": "Válvula de nivelación", "desc": "Mantiene la altura constante con cualquier carga ajustando automáticamente la presión de los resortes neumáticos." }
+      ],
+      "specs": "Especificaciones disponibles a solicitud"
+    },
+    "items": [
+      { "key": "compressors", "title": "Compresores de aire", "desc": "Compresores de servicio pesado que cargan el sistema de aire de frenos y suspensión." },
+      { "key": "dryers", "title": "Secadores de aire", "desc": "Secadores con desecante que protegen los frenos neumáticos de la humedad y los contaminantes." },
+      { "key": "drain-valves", "title": "Válvulas de drenaje automático", "desc": "Purga de condensado eléctrica o neumática para tanques de aire." },
+      { "key": "air-suspension", "title": "Componentes de suspensión neumática", "desc": "Componentes para suspensiones neumáticas de autobuses, autocares y camiones." },
+      { "key": "manifolds", "title": "Múltiples y bloques de válvulas", "desc": "Bloques modulares que integran varias funciones neumáticas en un solo cuerpo." },
+      { "key": "solenoids", "title": "Electroválvulas", "desc": "Válvulas de accionamiento eléctrico para control neumático e hidráulico." },
+      { "key": "hydraulic-valves", "title": "Válvulas hidráulicas", "desc": "Válvulas direccionales y de control de presión para circuitos hidráulicos." },
+      { "key": "hose", "title": "Ensambles de mangueras", "desc": "Mangueras para frenos de aire, neumáticas e hidráulicas para servicio exigente." },
+      { "key": "fittings", "title": "Conexiones y conectores", "desc": "Conexiones de precisión para uniones de fluidos seguras y sin fugas." }
+    ],
+    "cta": "Solicitar cotización"
+  },
+  "bus": {
+    "eyebrow": "Nivel 02 · Sistemas para autobuses",
+    "title": "Diseñado alrededor del sistema neumático completo del autobús.",
+    "desc": "Tratamos la compresión, el secado, el almacenamiento, el drenaje, el arrodillamiento, la nivelación y la suspensión como un solo sistema — no como piezas aisladas.",
+    "panels": [
+      {
+        "eyebrow": "Transporte urbano y autocares",
+        "title": "Arrodillamiento, nivelación y suspensión",
+        "desc": "Control neumático de accesibilidad, altura y estabilidad, validado según los requisitos del transporte público norteamericano."
+      },
+      {
+        "eyebrow": "Arquitectura integrada",
+        "title": "De la válvula al múltiple y al sistema",
+        "desc": "Cuando la integración aporta valor, combinamos varias funciones en un múltiple compacto diseñado para la aplicación."
+      }
+    ]
+  },
+  "engineering": {
+    "eyebrow": "Nivel 03 · Ingeniería",
+    "title": "Piezas de catálogo cuando encajan. Ingeniería cuando no.",
+    "desc": "Detrás de cada pieza RILKE está el diseño, el prototipado y la fabricación propios de Technoforme. Cuando una pieza estándar no sirve, fabricamos la correcta.",
+    "items": [
+      { "title": "Ingeniería de aplicación", "desc": "Presión, fluido, voltaje, ciclo de trabajo, entorno, caudal e interfaces traducidos a la arquitectura de componente correcta." },
+      { "title": "Ingeniería inversa", "desc": "Reconstrucción dimensional, análisis de materiales y sellado, y CAD 3D para piezas obsoletas o no disponibles." },
+      { "title": "Desarrollo OEM", "desc": "Válvulas, múltiples y ensambles a medida, del prototipo a la producción controlada — bajo acuerdo de confidencialidad si se requiere." }
+    ]
+  },
+  "rescue": {
+    "eyebrow": "Nivel 04 · Rescate de piezas",
+    "title": "¿Tiene una pieza que no consigue?",
+    "text": "Envíenos el número de parte, un plano, una foto o una muestra. La evaluamos, desarrollamos un equivalente por ingeniería inversa o diseñamos un reemplazo a medida para componentes obsoletos o descontinuados.",
+    "steps": [
+      { "title": "1 · Envíe su pieza", "desc": "Foto, plano, número o muestra." },
+      { "title": "2 · Analizamos y diseñamos", "desc": "Aplicación, interfaces, materiales y desempeño." },
+      { "title": "3 · Fabricamos", "desc": "Prototipo, validación y producción controlada." }
+    ],
+    "cta": "Solicitar evaluación"
+  },
+  "technology": {
+    "eyebrow": "Nivel 05 · Identidad del producto",
+    "title": "Cada componente puede llevar su identidad.",
+    "desc": "Estamos construyendo RILKE en torno a la trazabilidad: marcado permanente, códigos QR grabados con láser y acceso digital a la información y al historial de servicio de cada pieza.",
+    "tiles": [
+      { "title": "Identificación grabada con láser", "desc": "Identificación permanente en válvulas, múltiples y ensambles." },
+      { "title": "Trazabilidad QR", "desc": "Acceso rápido a la familia correcta, los datos técnicos y la información de reemplazo." },
+      { "title": "Trazabilidad por lote", "desc": "Los registros de producción ISO 9001 acompañan cada lote, del maquinado al envío." },
+      { "title": "Soporte de ingeniería directo", "desc": "Un camino corto entre la pieza instalada y el servicio, el reemplazo o el rediseño." }
+    ]
+  },
+  "rfq": {
+    "eyebrow": "Nivel 06 · Solicitud de cotización",
+    "title": "Cuéntenos qué necesita.",
+    "lede": "Envíe un número de parte, una referencia fotográfica, la cantidad o la aplicación. El formulario prepara una consulta completa para nuestro equipo de ingeniería.",
+    "contactName": "RILKE · Technoforme Inc.",
+    "email": "sales@rilkesystems.com",
+    "location": "Terrebonne, Quebec, Canadá",
+    "confidential": "Todas las consultas son confidenciales. Acuerdo de confidencialidad disponible a solicitud.",
+    "name": "Nombre",
+    "company": "Empresa",
+    "emailLabel": "Correo electrónico",
+    "family": "Familia de productos",
+    "customFamily": "Pieza obsoleta / a medida",
+    "part": "Número de parte / referencia",
+    "partPlaceholder": "Número OEM, modelo o referencia",
+    "message": "Aplicación / requisitos",
+    "messagePlaceholder": "Presión, fluido, voltaje, cantidad, aplicación, problema actual…",
+    "submit": "Preparar y enviar consulta",
+    "copy": "Copiar consulta",
+    "statusOpening": "Abriendo su aplicación de correo…",
+    "statusCopied": "Consulta copiada al portapapeles.",
+    "statusCopyFailed": "No se pudo copiar automáticamente — seleccione el texto manualmente.",
+    "inquiryTitle": "RILKE — Solicitud de cotización / ingeniería",
+    "subject": "Consulta RILKE"
+  },
+  "footer": {
+    "tagline": "Componentes neumáticos y de control de fluidos para autobuses urbanos, autocares y camiones pesados. Diseñados y fabricados por Technoforme Inc.",
+    "families": "Familias de productos",
+    "familyLinks": ["Válvulas de arrodillamiento y nivelación", "Compresores y secadores", "Válvulas de drenaje y electroválvulas", "Múltiples", "Mangueras y conexiones"],
+    "contact": "Contacto",
+    "sourcing": "Rescate de piezas e ingeniería",
+    "engineeredBy": "Diseñado por Technoforme",
+    "certs": "ISO 9001 · FMVSS",
+    "legal": "© 2026 Technoforme Inc. · RILKE es una marca de Technoforme Inc.",
+    "place": "Hecho en Canadá · Terrebonne, Quebec"
+  }
+}

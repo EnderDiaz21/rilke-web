@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "title": "RILKE Fluid Systems — Kneeling & Leveling Valves · Made in Canada",
+    "description": "RILKE designs and manufactures pneumatic and fluid-control components for transit buses, coaches and heavy trucks: kneeling and leveling valves, air compressors, air dryers and more. Engineered by Technoforme. ISO 9001 · FMVSS · Made in Canada."
+  },
+  "nav": {
+    "home": "RILKE Fluid Systems — home",
+    "products": "Products",
+    "bus": "Bus Systems",
+    "engineering": "Engineering",
+    "rescue": "Part Rescue",
+    "technology": "Technology",
+    "rfq": "RFQ",
+    "quote": "Request a Quote",
+    "language": "Language",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "sections": "Page sections"
+  },
+  "hero": {
+    "eyebrow": "Fluid control for transit buses, coaches & heavy trucks",
+    "titleLine1": "Fluid systems.",
+    "titleLine2": "Engineered in layers.",
+    "text": "From a single valve to a complete pneumatic architecture, RILKE designs, tests and manufactures the components that keep transit fleets in service — starting with kneeling and leveling valves.",
+    "cta1": "Explore product families",
+    "cta2": "Have a part you can't source?",
+    "badge": "Engineered & manufactured in Canada by Technoforme",
+    "wallLabel": "RILKE product families",
+    "minis": ["Kneeling & Leveling Valves", "Air Compressors", "Air Dryers", "Automatic Drain Valves"]
+  },
+  "credentials": {
+    "label": "Certifications and origin",
+    "items": [
+      { "title": "ISO 9001", "sub": "Certified quality management" },
+      { "title": "FMVSS", "sub": "Federal Motor Vehicle Safety Standards" },
+      { "title": "Made in Canada", "sub": "Fabriqué au Canada · Terrebonne, QC" },
+      { "title": "Since 2006", "sub": "Design → Prototype → Test → Production" }
+    ]
+  },
+  "products": {
+    "eyebrow": "Layer 01 · Product families",
+    "title": "A complete fluid-control portfolio.",
+    "desc": "Every family is designed and built under one roof, with consistent RILKE marking and direct access to the engineers who made it.",
+    "featuredBadge": "Featured",
+    "featured": {
+      "title": "Kneeling & Leveling Valves",
+      "desc": "Two complementary valves for the same air suspension — same buyer, same technician, same service interval.",
+      "items": [
+        { "name": "Kneeling Valve", "desc": "Lowers the floor for boarding. Built for ADA-compliant accessible transit and urban duty cycles." },
+        { "name": "Leveling Valve", "desc": "Holds constant ride height under any load by adjusting air-spring pressure automatically." }
+      ],
+      "specs": "Specifications available on request"
+    },
+    "items": [
+      { "key": "compressors", "title": "Air Compressors", "desc": "Heavy-duty compressors that charge the brake and suspension air system." },
+      { "key": "dryers", "title": "Air Dryers", "desc": "Desiccant dryers that protect air-brake systems from moisture and contaminants." },
+      { "key": "drain-valves", "title": "Automatic Drain Valves", "desc": "Electric and pressure-operated condensate removal for air reservoirs." },
+      { "key": "air-suspension", "title": "Air Suspension Components", "desc": "Components for bus, coach and truck air suspension systems." },
+      { "key": "manifolds", "title": "Manifolds & Valve Blocks", "desc": "Modular blocks that combine several pneumatic functions in one body." },
+      { "key": "solenoids", "title": "Solenoid Valves", "desc": "Electrically actuated valves for pneumatic and hydraulic control." },
+      { "key": "hydraulic-valves", "title": "Hydraulic Valves", "desc": "Directional and pressure-control valves for hydraulic circuits." },
+      { "key": "hose", "title": "Hose Assemblies", "desc": "Air-brake, pneumatic and hydraulic hose assemblies for demanding service." },
+      { "key": "fittings", "title": "Fittings & Connectors", "desc": "Precision fittings for secure, leak-free fluid connections." }
+    ],
+    "cta": "Request a quote"
+  },
+  "bus": {
+    "eyebrow": "Layer 02 · Bus systems",
+    "title": "Designed around the complete bus air system.",
+    "desc": "We treat compression, drying, storage, drainage, kneeling, leveling and suspension as one system — not as isolated parts.",
+    "panels": [
+      {
+        "eyebrow": "Transit & coach",
+        "title": "Kneeling, leveling & suspension control",
+        "desc": "Pneumatic control for accessibility, ride height and stability, validated for North American transit requirements."
+      },
+      {
+        "eyebrow": "Integrated architecture",
+        "title": "From valve to manifold to system",
+        "desc": "Where integration adds value, we combine several functions into one compact manifold engineered for the application."
+      }
+    ]
+  },
+  "engineering": {
+    "eyebrow": "Layer 03 · Engineering",
+    "title": "Catalog parts when they fit. Engineering when they don't.",
+    "desc": "Behind every RILKE part is Technoforme's in-house design, prototyping and manufacturing. When a standard part won't do, we build the right one.",
+    "items": [
+      { "title": "Application Engineering", "desc": "Pressure, media, voltage, duty cycle, environment, flow and interfaces translated into the right component architecture." },
+      { "title": "Reverse Engineering", "desc": "Dimensional reconstruction, material review, sealing analysis and 3D CAD for obsolete or unavailable parts." },
+      { "title": "OEM Development", "desc": "Custom valves, manifolds and assemblies taken from prototype to controlled production — under NDA if required." }
+    ]
+  },
+  "rescue": {
+    "eyebrow": "Layer 04 · Part rescue",
+    "title": "Have a part you can't source?",
+    "text": "Send us the part number, a drawing, a photo or a sample. We'll evaluate it, reverse-engineer an equivalent or develop a custom replacement for obsolete and discontinued components.",
+    "steps": [
+      { "title": "1 · Send us your part", "desc": "Photo, drawing, number or sample." },
+      { "title": "2 · We analyze & engineer", "desc": "Application, interfaces, materials and performance." },
+      { "title": "3 · We manufacture", "desc": "Prototype, validate, then controlled production." }
+    ],
+    "cta": "Request an evaluation"
+  },
+  "technology": {
+    "eyebrow": "Layer 05 · Product identity",
+    "title": "Every component can carry its identity.",
+    "desc": "We're building RILKE around traceability: permanent marking, laser-engraved QR codes and digital access to part information and service history.",
+    "tiles": [
+      { "title": "Laser-engraved ID", "desc": "Permanent identification on valves, manifolds and assemblies." },
+      { "title": "QR traceability", "desc": "Quick access to the right part family, technical data and replacement information." },
+      { "title": "Lot traceability", "desc": "ISO 9001 production records follow each batch from machining to shipment." },
+      { "title": "Direct engineering support", "desc": "A short path from an installed part to service, replacement or redesign." }
+    ]
+  },
+  "rfq": {
+    "eyebrow": "Layer 06 · Request a quote",
+    "title": "Tell us what you need.",
+    "lede": "Send a part number, photo reference, quantity or application. The form prepares a complete inquiry for our engineering team.",
+    "contactName": "RILKE · Technoforme Inc.",
+    "email": "sales@rilkesystems.com",
+    "location": "Terrebonne, Québec, Canada",
+    "confidential": "All inquiries are confidential. NDA available on request.",
+    "name": "Name",
+    "company": "Company",
+    "emailLabel": "Email",
+    "family": "Product family",
+    "customFamily": "Obsolete / custom part",
+    "part": "Part number / reference",
+    "partPlaceholder": "OEM number, model or reference",
+    "message": "Application / requirements",
+    "messagePlaceholder": "Pressure, media, voltage, quantity, application, current issue…",
+    "submit": "Prepare & send inquiry",
+    "copy": "Copy inquiry",
+    "statusOpening": "Opening your email application…",
+    "statusCopied": "Inquiry copied to clipboard.",
+    "statusCopyFailed": "Couldn't copy automatically — please select the text manually.",
+    "inquiryTitle": "RILKE RFQ / Engineering inquiry",
+    "subject": "RILKE inquiry"
+  },
+  "footer": {
+    "tagline": "Pneumatic and fluid-control components for transit buses, coaches and heavy trucks. Designed and manufactured by Technoforme Inc.",
+    "families": "Product families",
+    "familyLinks": ["Kneeling & leveling valves", "Compressors & dryers", "Drain & solenoid valves", "Manifolds", "Hose & fittings"],
+    "contact": "Contact",
+    "sourcing": "Part sourcing & engineering",
+    "engineeredBy": "Engineered by Technoforme",
+    "certs": "ISO 9001 · FMVSS",
+    "legal": "© 2026 Technoforme Inc. · RILKE is a brand of Technoforme Inc.",
+    "place": "Made in Canada · Terrebonne, Québec"
+  }
+}
